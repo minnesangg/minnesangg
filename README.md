@@ -25,7 +25,6 @@
 ### 📌 Latest Projects:
 - 🔑 **[Cerberus (Password Manager)](https://github.com/minnesangg/Cerberus)** – A password manager built with **Qt**
 - 🏨 **[Hotel Management](https://github.com/minnesangg/Hotel_Management)** – Hotel management system in **C#**
-- 🎮 **[RPG Game (Godot)](https://github.com/minnesangg/game_proto)** – A prototype for an RPG game built with **Godot**
   
 ### 📈 GitHub Stats:
 <p align="center">
