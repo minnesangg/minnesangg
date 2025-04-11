@@ -13,8 +13,9 @@
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-5.7-41cd52.svg)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Qt 6.9.0](https://img.shields.io/badge/Qt-6.9.0-brightgreen)
 
 ### 🛠️ Development Tools:
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
