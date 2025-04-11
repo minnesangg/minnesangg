@@ -24,6 +24,7 @@
 
 ### 📌 Latest Projects:
 - 🔑 **[Cerberus (Password Manager)](https://github.com/minnesangg/Cerberus)** – A password manager built with **Qt**
+- ✈️ **[TicketFlow](https://github.com/minnesangg/TicketFlow)** - Airline Ticket Request Manager built with **Qt**
 - 🏨 **[Hotel Management](https://github.com/minnesangg/Hotel_Management)** – Hotel management system in **C#**
   
 ### 📈 GitHub Stats:
