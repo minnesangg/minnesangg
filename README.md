@@ -36,6 +36,3 @@
   
 
 </p>
-
-### 📫 Contact Me:
-![Email](https://img.shields.io/badge/Email-minnesangdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
