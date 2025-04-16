@@ -2,7 +2,7 @@
 
 ### 💻 About Me:
 - 🛠 I code in **C++, C#, Python**  
-- 📌 Passionate about **Qt, GameDev, cybersecurity and pentesing**
+- 📌 Passionate about **Qt, GameDev, cybersecurity**
 - 🎯 Developing **desktop applications and games. working with SQL**
 - 🎓 Currently studying at **ONPU (Odesa National Polytechnic University)**  
 - 🚀 Continuously improving my projects and contributing to Open Source
