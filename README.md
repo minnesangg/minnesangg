@@ -20,8 +20,10 @@
 ### 🛠️ Development Tools:
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+![Fedora Linux](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white) 
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?&logo=sublime-text&logoColor=white)
+![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52.svg?&logo=qt&logoColor=white)
+
 
 ### 📌 Latest Projects:
 - 🔑 **[Cerberus (Password Manager)](https://github.com/minnesangg/Cerberus)** – A password manager built with **Qt**
