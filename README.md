@@ -32,9 +32,10 @@
   
 ### 📈 GitHub Stats:
 <p align="center">
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnesangg&theme=tokyonight&width=200" />
-  </div>
-  
-
+<div style="display: inline-block; margin: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnesangg&theme=tokyonight&width=200" />
+</div>
+<div style="display: inline-block; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnesangg&layout=compact&theme=dark&exclude_repo=TicketFLowDocs,Cerberus_Docs" />
+</div>
 </p>
