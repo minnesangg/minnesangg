@@ -1,35 +1,40 @@
 <h1 align="center">Hi, I'm minnesang! 👋</h1>
 
 ### 💻 About Me:
-- 🛠 I code in **C++, C#, Python**  
-- 📌 Passionate about **Qt, GameDev, cybersecurity**
-- 🎯 Developing **desktop applications and games. working with SQL**
-- 🎓 Currently studying at **ONPU (Odesa National Polytechnic University)**  
-- 🚀 Continuously improving my projects and contributing to Open Source
-  
-### ⚡️ Technologies:
+- 🛠️ I code in **C++, C#, Python, Java, JavaScript**
+- 🌟 Specialized in **Qt (desktop apps), Spring Boot (backend/API), React (frontend)**
+- 🎯 Developing **cross-platform desktop applications, websites, and REST APIs**
+- 🗄️ Experienced with SQL databases: **SQLite, PostgreSQL, MSSQL, MySQL**
+- 🎓 Currently studying at **ONPU (Odesa National Polytechnic University)**
+- 🚀 Actively improving my projects
+
+### ⚡️ Core Technologies:
+
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-6.9.0-brightgreen?logo=qt&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%2366AA66.svg?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Qt 6.9.0](https://img.shields.io/badge/Qt-6.9.0-brightgreen)
 
 ### 🛠️ Development Tools:
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
-![Fedora Linux](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white) 
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?&logo=sublime-text&logoColor=white)
-![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52.svg?&logo=qt&logoColor=white)
 
+![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52.svg?logo=qt&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?logo=sublime-text&logoColor=white)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 
 ### 📌 Latest Projects:
-- 🔑 **[Cerberus (Password Manager)](https://github.com/minnesangg/Cerberus)** – A password manager built with **Qt**
-- ✈️ **[TicketFlow](https://github.com/minnesangg/TicketFlow)** - Airline Ticket Request Manager built with **Qt**
-- 🏨 **[Hotel Management](https://github.com/minnesangg/Hotel_Management)** – Hotel management system in **C#**
-  
+
+- 🔑 **[Cerberus (Password Manager)](https://github.com/minnesangg/Cerberus)** – password manager built with **Qt + SQLite + cryptography**
+- ✈️ **[TicketFlow](https://github.com/minnesangg/TicketFlow)** – airline ticket request system using PostgreSQL and Qt
+- 🏨 **[Hotel Management](https://github.com/minnesangg/Hotel_Management)** – hotel management system in C# with MSSQL
+
 ### 📈 GitHub Stats:
 <p align="center">
 <div style="display: inline-block; margin: 10px;">
