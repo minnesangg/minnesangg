@@ -3,10 +3,9 @@
 ### 🧠 About Me
 
 I'm a software engineer focused on building **robust, secure, and cross-platform applications**.  
-Strong background in **C++** and systems programming, with hands-on experience in **desktop apps**, **backend APIs**, and **UI development**.
+Strong background in **C++** and systems programming, with hands-on experience in **desktop apps**, **backend APIs**, **cryptographic libraries**, and **UI development**.
 
 - 🧩 Core stack: **C++ / Qt / PostgreSQL / React / Spring Boot**
-- 🔐 Focus areas: **multithreading, cryptography, secure storage**
 - ⚙️ Platforms: **Linux-first**, but building for both Linux and Windows
 
 ---
