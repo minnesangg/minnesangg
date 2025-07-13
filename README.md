@@ -62,6 +62,8 @@ Hotel management system built on C# and MSSQL with MS Word export and extensive 
   <img src="https://streak-stats.demolab.com/?user=minnesangg&theme=tokyonight" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnesangg&layout=compact&theme=tokyonight&exclude_repo=TicketFLowDocs,Cerberus_Docs" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minnesangg&theme=tokyo-night&layout=compact" />
 </p>
 
 ---
